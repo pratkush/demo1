@@ -3,3 +3,9 @@ there is something written
 
 
 some more text
+
+
+git branch
+git branch name of branch
+git branch checkout 
+git branch -b checkout name of branch
