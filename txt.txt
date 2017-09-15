@@ -1,5 +1,7 @@
 This is the required text file 
 there is something written
 
+some data again added
+
 git branch
 git branch -b checkout name of branch
